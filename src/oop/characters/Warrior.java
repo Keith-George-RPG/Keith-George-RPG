@@ -8,10 +8,10 @@ public class Warrior extends Hero {
         super(150, 25, name);
     }
 
-    @Override
-    public void attack() {
-        System.out.println("Warrior attack!");
-    }
+//    @Ovelrride
+//    pubic void attack() {
+//        System.out.println("Warrior attack!");
+//    }
 
 
 }

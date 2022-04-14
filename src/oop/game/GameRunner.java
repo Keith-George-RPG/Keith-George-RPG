@@ -1,9 +1,9 @@
 package oop.game;
 
 
+import oop.Input;
 import oop.characters.*;
 import oop.characters.Character;
-import util.Input;
 
 import java.util.Random;
 import java.util.Scanner;
