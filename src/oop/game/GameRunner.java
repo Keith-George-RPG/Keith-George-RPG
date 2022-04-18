@@ -15,6 +15,7 @@ public class GameRunner {
 
         Attackable hero;
 
+
         if (heroChoice.equalsIgnoreCase("warrior")) {
             hero = new Warrior("Warrior");
         } else if (heroChoice.equalsIgnoreCase("knight")) {
@@ -24,6 +25,8 @@ public class GameRunner {
         }
 
         hero.attack();
+
+
 
     }
 

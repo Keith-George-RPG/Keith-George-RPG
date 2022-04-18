@@ -6,5 +6,5 @@ public interface Defendable {
     int spDefense = 10;
 
     void setBaseDefense();
-    void setSpDefense();
+//    void setSpDefense();
 }
